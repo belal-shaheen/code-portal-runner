@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belal-shaheen/code-portal-runner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/belal-shaheen/code-portal-runner/issues"
+  },
+  "homepage": "https://github.com/belal-shaheen/code-portal-runner#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
